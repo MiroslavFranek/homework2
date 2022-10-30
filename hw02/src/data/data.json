@@ -1,0 +1,27 @@
+{
+    "wholeSumData":{
+        "name":"Celkový počet nakupujících"
+    },
+    "counterData": [
+      {
+        "name": "Domácí potřeby",
+        "limit": 20,
+        "count": 10
+      },
+      {
+        "name": "Hračky",
+        "limit": 20,
+        "count": 20
+      },
+      {
+        "name": "Parfémy",
+        "limit": 20,
+        "count": 30
+      },
+      {
+        "name": "Elektro",
+        "limit": 20,
+        "count": 40
+      }
+    ]
+  }

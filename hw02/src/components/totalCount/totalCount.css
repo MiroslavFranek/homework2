@@ -1,0 +1,13 @@
+.totalCountTile {
+    margin: auto;   
+    margin-top: 30px;
+    width: 50%;
+    border: 1px black solid;
+    text-align: center;
+}
+h4{
+    margin: 10px;
+}
+h3{
+    margin: 10px;       
+}
